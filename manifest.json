@@ -1,17 +1,17 @@
 {
- "start_url": "index.htm",
  "display": "fullscreen",
- "name": "Saikou Sushi - Veleiros - Tour Virtual 360°",
+ "start_url": "index.htm",
+ "theme_color": "#FF9966",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
-   "sizes": "192x192",
-   "src": "misc/icon192.png"
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   },
   {
    "type": "image/png",
@@ -20,13 +20,8 @@
   },
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "64x64",
-   "src": "misc/icon64.png"
+   "sizes": "192x192",
+   "src": "misc/icon192.png"
   },
   {
    "type": "image/png",
@@ -35,11 +30,16 @@
   },
   {
    "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "misc/icon64.png"
   }
  ],
  "description": "Praça Nicolau Aranha Pachêco, 64 - Jardim Ipanema, São Paulo - SP",
- "theme_color": "#FF9966",
+ "name": "Saikou Sushi - Veleiros - Tour Virtual 360°",
  "background_color": "#FF9966"
 }
